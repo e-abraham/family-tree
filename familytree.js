@@ -9,7 +9,7 @@ class Person {
     }
   
   }
-  
+
   const georgeVI = new Person("George", []);
   const elizabeth = new Person("Elizabeth", []);
   const elizabethII = new Person("Elizabeth II", [georgeVI, elizabeth]);
